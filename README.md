@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sanagh1678
 - 👀 I’m interested in ... python and DSA 
-- 🌱 I’m currently learning ...MERN
+- 🌱 I’m currently learning ...Nodejs
+I have expertise and experience as a Nodejs developer 
 - 💞️ I’m looking to collaborate on .. exciting projects 
 - 📫 How to reach me ... ankitsana749@gmail.com
 
